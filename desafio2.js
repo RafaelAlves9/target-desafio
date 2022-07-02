@@ -1,6 +1,5 @@
 var sequenciaFibonacci = [0,1]
 
-
 for (i=0; i<1000; i++){
     let ultimoElemento = sequenciaFibonacci[sequenciaFibonacci.length - 1]
     let penultimoElemento = sequenciaFibonacci[sequenciaFibonacci.length - 2]
