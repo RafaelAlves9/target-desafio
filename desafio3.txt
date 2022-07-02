@@ -1,0 +1,11 @@
+a) 1, 3, 5, 7, _9 => Progressão aritmética de razão 2.(numero anterior +2)
+
+b) 2, 4, 8, 16, 32, 64, _128 => Progressão geométrica de razão 2.(numero anterior x2)
+
+c) 0, 1, 4, 9, 16, 25, 36, _49 => numero anterior + um número da sequencia de números ímpares (1,3,5,7,9,...)
+
+d) 4, 16, 36, 64, _100 => sequencia das raízes quadradas dos números pares
+
+e) 1, 1, 2, 3, 5, 8, _13 => sequencia composta pela soma dos últmos 2 elementos (sequencia de Fibonacci)
+
+f) 2, 10, 12, 16, 17, 18, 19, _200 => sequencia de números que começam com a letra D
